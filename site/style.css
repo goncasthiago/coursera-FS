@@ -1,3 +1,16 @@
+header.navigation p {
+	color: blue;
+}
+
+p {
+	font-size: 130%;
+	background-color: gray;
+	color: white;
+}
+
+p.blurb {
+	color: red;
+}
 header li {
 	list-style: none;
 }
